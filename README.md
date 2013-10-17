@@ -1,10 +1,9 @@
-nosql
+New NoSQL
 =====
 
-lightweight mobile NoSQL document database
 
 
-iBoxDB for java & android  from https://github.com/iboxdb/forjava 
+iBoxDB for java & android & node.js from https://github.com/iboxdb/forjava 
 
 
-iBoxDB for .net & windows phone & mono from http://iboxdb.codeplex.com/ 
+iBoxDB for .net & windows phone & mono & node.js & unity3d from http://iboxdb.codeplex.com/ 
