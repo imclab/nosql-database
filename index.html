@@ -1,1 +1,40 @@
-index.html pages
+<html>
+<head>
+    <title>iBoxDB Fast embeddable transactional table-style document nosql database</title>
+</head>
+<body style="width:700px">
+    <p>iBoxDB is a fast embeddable transactional table-style document nosql database, easily process objects and documents, zero configuration,
+        pure java/.net database, no dependencies
+    </p>
+    Features: CURD, index, composite index, query language, transactions, mvcc, concurrency control, 
+    master-master-slave-replication, in-memory database, dynamic columns, nosql styles, high performance,
+    traditional table with unstructured data.
+    <p>
+        Supports java, .net, android, windows phone, mono,  compatible with unity3d, node.js 
+    </p>
+    <p>
+        <a id="ajava" href="https://github.com/iboxdb/forjava">iBoxDB JAVA Version</a><br />
+        <a id="anet" href="https://iboxdb.codeplex.com/">iBoxDB NET Version</a>
+
+    </p>
+
+    <img id="imgnet" src="http://download-codeplex.sec.s-msft.com/Download?ProjectName=iboxdb&DownloadId=737783" />
+    <br />
+    <img id="imgjava" src="https://raw.github.com/iboxdb/forjava/master/images/show.png" />
+
+    <script type="text/javascript">
+
+        ajava.onmouseover = function () {
+            imgjava.style.display = '';
+            imgnet.style.display = 'none'
+        }
+        anet.onmouseover = function () {
+            imgjava.style.display = 'none';
+            imgnet.style.display = ''
+        }
+        imgjava.style.display = 'none'
+        imgnet.style.display = 'none'
+
+    </script>
+</body>
+</html>
