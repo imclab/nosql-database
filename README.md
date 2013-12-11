@@ -1,9 +1,9 @@
-New NoSQL
+New NoSQL, Two Versions
 =====
 
 
 
-[iBoxDB for java, android, node.js https://github.com/iboxdb/forjava](https://github.com/iboxdb/forjava) 
+[iBoxDB for Java, Android, Node.js](https://github.com/iboxdb/forjava) https://github.com/iboxdb/forjava
 
 
-[iBoxDB for .net,  windows phone, mono, node.js, unity3d https://iboxdb.codeplex.com/](https://iboxdb.codeplex.com/) 
+[iBoxDB for .Net,  Windows Phone, Mono, Unity3D](https://iboxdb.codeplex.com/) https://iboxdb.codeplex.com/
